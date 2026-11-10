@@ -1,0 +1,137 @@
+[
+  {
+    "id": "grass",
+    "name": "Grass Stage 2",
+    "status": "open",
+    "category": "depin",
+    "chain": "Not stated in sources",
+    "reward": "USDC payout",
+    "who": "Bandwidth providers, epochs 1 to 19",
+    "deadline": "2027-01-22T23:59:59Z",
+    "closes": "Jan 22, 2027",
+    "hue": [150, 190],
+    "official": "app.grass.io/dashboard",
+    "referralUrl": null,
+    "summary": "Stage 2 rewards are paid in USDC through your Grass dashboard. Payout ends after six months or once everything is claimed, whichever comes first.",
+    "flags": [
+      { "l": "warn", "t": "Unclaimed rewards stay with Grass and are not redistributed." },
+      { "l": "warn", "t": "No closing time is stated and the pool can run out earlier, so do not wait for the last day." },
+      { "l": "good", "t": "Eligibility covers bandwidth provided between Oct 14, 2024 and Jun 8, 2026." }
+    ],
+    "tasks": [
+      "Open your Grass dashboard from the official address",
+      "Claim your Stage 2 USDC before the deadline"
+    ],
+    "sources": [
+      { "t": "Cryptoticker: airdrops week 45 (Nov 2, 2026)", "u": "https://cryptoticker.io/en/crypto-airdrops-week-45-2026-deadlines/" }
+    ]
+  },
+  {
+    "id": "baserewards",
+    "name": "Base App Launch Rewards",
+    "status": "open",
+    "category": "rewards-program",
+    "chain": "Base",
+    "reward": "USDC from a limited pool",
+    "who": "App users under the current terms",
+    "deadline": "2026-12-21T20:00:00Z",
+    "closes": "Dec 21, 2026 · 12:00 PT",
+    "hue": [330, 270],
+    "official": null,
+    "referralUrl": null,
+    "summary": "A rewards program paid in USDC for signing up, using the app, trading and inviting friends. This is not a BASE token airdrop.",
+    "flags": [
+      { "l": "warn", "t": "Not a BASE token airdrop. Base has only said it is exploring a network token." },
+      { "l": "warn", "t": "Expect scam activity around year-end claims. Use only the official app and announcement." },
+      { "l": "warn", "t": "The pool is limited and the terms can change." }
+    ],
+    "tasks": [
+      "Read the current terms in the official Base app",
+      "Follow only what the terms describe",
+      "Ignore anyone offering a \"BASE airdrop\""
+    ],
+    "sources": [
+      { "t": "Farmdash: upcoming airdrops Q4 2026", "u": "https://www.farmdash.one/guides/upcoming-crypto-airdrops-q4-2026" }
+    ]
+  },
+  {
+    "id": "primus",
+    "name": "Primus Labs",
+    "status": "points",
+    "category": "infrastructure",
+    "chain": "EVM wallet",
+    "reward": "AlphaNet points",
+    "who": "Users completing zkTLS verification tasks",
+    "deadline": null,
+    "closes": "No end date listed",
+    "hue": [18, 345],
+    "official": null,
+    "referralUrl": null,
+    "summary": "Privacy-focused data verification project (formerly PADO). Its AlphaNet campaign lets users verify social identities with zkTLS proofs and build a reputation score.",
+    "flags": [
+      { "l": "warn", "t": "A token has not been announced by the project, as of an Oct 20, 2026 guide." },
+      { "l": "warn", "t": "Some guides call it a \"confirmed airdrop\". That goes further than the project has." },
+      { "l": "good", "t": "A $6.5M seed round was reported in February 2025." },
+      { "l": "info", "t": "The AlphaNet campaign launched on October 16, 2025 and has no announced end date." }
+    ],
+    "tasks": [
+      "Open the AlphaNet page from Primus Labs' own official site or verified account",
+      "Connect an EVM wallet only on that official page",
+      "Install the Primus extension only from the Chrome Web Store",
+      "Complete the available verification tasks",
+      "Never pay anyone to unlock rewards"
+    ],
+    "sources": [
+      { "t": "CoinLaunch: Primus Labs retrodrop overview", "u": "https://coinlaunch.space/events-contests/primus-labs-retrodrop/" },
+      { "t": "Bitrue: Primus Labs airdrop guide", "u": "https://www.bitrue.com/blog/primus-labs-airdrop-guide-claim" },
+      { "t": "CryptoRank: Primus Labs (prev. PADO) activity", "u": "https://cryptorank.io/drophunting/pado-labs-activity698" },
+      { "t": "AirdropAlert: Primus Labs", "u": "https://airdropalert.com/?p=304396" }
+    ]
+  },
+  {
+    "id": "basetoken",
+    "name": "Base network token",
+    "status": "unconfirmed",
+    "category": "l2-network",
+    "chain": "Base",
+    "reward": "None announced",
+    "who": "Not announced",
+    "deadline": null,
+    "closes": "No dates published",
+    "hue": [330, 270],
+    "official": null,
+    "referralUrl": null,
+    "summary": "Base has said it is exploring a network token. No design, eligibility rules, snapshot or launch date has been published.",
+    "flags": [
+      { "l": "warn", "t": "Treat any \"BASE airdrop\" claim as a scam until Base announces one itself." }
+    ],
+    "tasks": ["Nothing to do yet", "Follow only Base's own announcements"],
+    "sources": [
+      { "t": "Farmdash: upcoming airdrops Q4 2026", "u": "https://www.farmdash.one/guides/upcoming-crypto-airdrops-q4-2026" }
+    ]
+  },
+  {
+    "id": "metamask",
+    "name": "MetaMask Rewards",
+    "status": "ended",
+    "category": "wallet",
+    "chain": "Not applicable",
+    "reward": "Points (no token)",
+    "who": "Season 1 participants",
+    "deadline": null,
+    "closes": "Closed",
+    "hue": [28, 340],
+    "official": null,
+    "referralUrl": null,
+    "summary": "Season 1 ended in early 2026 and its claim window is closed. The current docs say there are no plans for a $MASK token.",
+    "flags": [
+      { "l": "warn", "t": "Some roundups list a Nov 26 deadline and a Nov 12 opt-in. MetaMask's own pages contradict this." },
+      { "l": "warn", "t": "Anyone offering a MASK airdrop now is not following MetaMask's published plans." }
+    ],
+    "tasks": ["Nothing to claim", "Ignore any \"MASK airdrop\" link"],
+    "sources": [
+      { "t": "Cryptoticker: airdrops week 45 (Nov 2, 2026)", "u": "https://cryptoticker.io/en/crypto-airdrops-week-45-2026-deadlines/" },
+      { "t": "Farmdash: upcoming airdrops Q4 2026", "u": "https://www.farmdash.one/guides/upcoming-crypto-airdrops-q4-2026" }
+    ]
+  }
+]
