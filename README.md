@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DropShield (Next.js)
 
 Same design as the HTML prototype, rebuilt with Next.js (App Router, TypeScript). Listings live in one file, `data/campaigns.json`, and you can manage them from `/admin`.
@@ -37,3 +38,7 @@ git remote add origin https://github.com/<you>/<repo>.git
 git branch -M main
 git push -u origin main
 ```
+=======
+# DropShield
+DropShield labels each airdrop campaign by what the project has actually announced, shows where the information comes from, and checks suspicious links before you open them.
+>>>>>>> b4d6f31ba4a627c5fd6c091defac747122adfebb
