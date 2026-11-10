@@ -27,7 +27,7 @@
   --r-lg: 28px;
   --r-xl: 36px;
   --gap: 16px;
-  --sec: clamp(56px, 8vw, 96px);
+  --sec: clamp(48px, 6.2vw, 76px);
   --ease: cubic-bezier(.22, 1, .36, 1);
   color-scheme: light;
 }
